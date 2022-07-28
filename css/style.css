@@ -5,3 +5,9 @@
 .company img {
     width: 70%;
 }
+
+@media screen and (max-width: 576px) {
+    .caption-title {
+        top: 7%;
+    }
+}
